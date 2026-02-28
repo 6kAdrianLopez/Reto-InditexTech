@@ -1,0 +1,18 @@
+{
+  "inbox": [],
+  "processed": [
+    {
+      "id": "e2ea6646-8364-4e74-84eb-f44888496736",
+      "tipo": "imagen",
+      "tipo_especifico": "imagen",
+      "nombre_original": "GUsRWigXIAAZZfM.jpg",
+      "archivo": "0ceee84c-8fd5-478f-8fce-15102b3a4145.jpg",
+      "ruta": "uploads/images/0ceee84c-8fd5-478f-8fce-15102b3a4145.jpg",
+      "descripcion": "",
+      "tamano": 42792,
+      "fecha": "2026-02-28T16:55:37.769163",
+      "estado": "processed",
+      "fecha_procesado": "2026-02-28T16:55:41.722174"
+    }
+  ]
+}
