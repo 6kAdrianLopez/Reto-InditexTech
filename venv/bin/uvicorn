@@ -1,4 +1,4 @@
-#!/home/danipc14/HackUDC2026/Reto-InditexTech/venv/bin/python3
+#!/home/samueelmtz/Escritorio/Hackathon/Reto-InditexTech/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
